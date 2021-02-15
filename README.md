@@ -3,10 +3,10 @@
 
 <h1>I'm Shadow</h1>
 
-- [Website](https://iqiq.ml/)
-- [Discord](https://iqiq.ml/discord)
-- [Twitter](https://iqiq.ml/twitter)
-- [instagram](https://iqiq.ml/instagram)
+- [Website](None)
+- [Discord](https://discord.gg/urr)
+- [Twitter](None)
+- [instagram](https://www.instagram.com/i5_yz/)
 
 ## Languages and Tools:
 <ul>
